@@ -1,0 +1,13 @@
+
+.object-fit-cover {
+  object-fit: cover;
+ 
+}
+
+.faculty__img img 
+{/* or object-fit: contain; depending on your preference */
+  border-radius: 100%; /* Use 50% to create a circular shape */
+}
+
+
+
